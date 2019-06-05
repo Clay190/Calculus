@@ -48,6 +48,7 @@ print("MRAM", Mtotal)
 print("RRAM", Rtotal)
 print("Trapezoid Area", TrapTotal)
 print("Simpson's Area", SimpTotal)
+#New code displaying error values
 print("Percent Error for LRAM is", error1)
 print("Percent Error for RRAM is", error2)
 print("Percent Error for MRAM is", error3)
